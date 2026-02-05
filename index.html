@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Random Page</title>
+  <style>
+    body{font-family:Arial,Helvetica,sans-serif;margin:40px;line-height:1.5}
+    header{display:flex;gap:16px;align-items:center;margin-bottom:20px}
+    nav a{margin-right:12px}
+    .card{padding:16px;border:1px solid #ddd;border-radius:10px;max-width:520px}
+    button{padding:10px 14px;border:0;border-radius:8px;cursor:pointer}
+  </style>
+</head>
+<body>
+  <header>
+    <h2>Random Site</h2>
+    <nav>
+      <a href="#">Home</a>
+      <a href="#">About</a>
+      <a href="#">Contact</a>
+    </nav>
+  </header>
+
+  <div class="card">
+    <h1>Hello 👋</h1>
+    <p>This is a simple random page.</p>
+    <button id="btn">Click me</button>
+    <p id="out"></p>
+  </div>
+
+  <script>
+    const msgs = ["Nice!", "Works ✅", "Hello world!", "Have a good day ☀️"];
+    document.getElementById("btn").onclick = () =>
+      document.getElementById("out").textContent = msgs[Math.floor(Math.random()*msgs.length)];
+  </script>
+</body>
+</html>
