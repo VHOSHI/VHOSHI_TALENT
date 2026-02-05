@@ -6,15 +6,15 @@ date: 01/01/2025 00:00 +00:00
 friends:
 
 @UserData
-name: BlackDogVRC
-tier: Admin
+name: BEETHOHIR0
+tier: OWNER
 days: 0
 date: 01/01/2025 00:00 +00:00
-friends: Ajña, Miss_Mayfrost, kyber108,
+friends:
 
 @UserData
-name: SneezeQueen
-tier: Admin
+name: VHOSHI
+tier: OWNER
 days: 0
 date: 01/01/2025 00:00 +00:00
 friends:
