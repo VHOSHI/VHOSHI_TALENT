@@ -21,7 +21,7 @@ friends:
 
 @UserData
 name: XRandhyGoX
-tier: Jurado
+tier: Staff
 days: 0
 date: 01/01/2025 00:00 +00:00
 friends:
