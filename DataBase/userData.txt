@@ -42,42 +42,14 @@ friends:
 
 @UserData
 name: Poste_Iwok1
-tier: Staff
+tier: Admin
 days: 0
 date: 01/01/2025 00:00 +00:00
 friends:
 
 @UserData
 name: Luni-chan RXD
-tier: Staff
-days: 0
-date: 01/01/2025 00:00 +00:00
-friends:
-
-@UserData
-name: King Lufa
-tier: Staff
-days: 0
-date: 01/01/2025 00:00 +00:00
-friends:
-
-@UserData
-name: BATISTACRC12
-tier: Staff
-days: 0
-date: 01/01/2025 00:00 +00:00
-friends:
-
-@UserData
-name: Past_1AM
-tier: Staff
-days: 0
-date: 01/01/2025 00:00 +00:00
-friends:
-
-@UserData
-name: Zoe狼
-tier: Staff
+tier: Admin
 days: 0
 date: 01/01/2025 00:00 +00:00
 friends:
