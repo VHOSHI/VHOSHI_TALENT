@@ -28,7 +28,7 @@ friends:
 
 @UserData
 name: seijuka
-tier: Owner
+tier: Admin
 days: 0
 date: 01/01/2025 00:00 +00:00
 friends:
@@ -42,14 +42,71 @@ friends:
 
 @UserData
 name: Poste_Iwok1
-tier: Admin
+tier: Staff
 days: 0
 date: 01/01/2025 00:00 +00:00
 friends:
 
 @UserData
-name: Luni-chan RXD
-tier: Admin
+name: Chibisaurio
+tier: Staff
+days: 0
+date: 01/01/2025 00:00 +00:00
+friends:
+
+@UserData
+name: DrakenMix
+tier: Staff
+days: 0
+date: 01/01/2025 00:00 +00:00
+friends:
+
+@UserData
+name: Mati_05
+tier: Participante
+days: 0
+date: 01/01/2025 00:00 +00:00
+friends:
+
+@UserData
+name: Deluke
+tier: Participante
+days: 0
+date: 01/01/2025 00:00 +00:00
+friends:
+
+@UserData
+name: ARBETH
+tier: Participante
+days: 0
+date: 01/01/2025 00:00 +00:00
+friends:
+
+@UserData
+name: Crimsonweiss
+tier: Participante
+days: 0
+date: 01/01/2025 00:00 +00:00
+friends:
+
+@UserData
+name: elpistols
+tier: Participante
+days: 0
+date: 01/01/2025 00:00 +00:00
+friends:
+
+
+@UserData
+name: oscuridad666
+tier: Participante
+days: 0
+date: 01/01/2025 00:00 +00:00
+friends:
+
+@UserData
+name: HiroHate_
+tier: Participante
 days: 0
 date: 01/01/2025 00:00 +00:00
 friends:
