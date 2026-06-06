@@ -42,7 +42,7 @@ friends:
 
 @UserData
 name: Poste_Iwok1
-tier: Staff
+tier: Jurado
 days: 0
 date: 01/01/2025 00:00 +00:00
 friends:
