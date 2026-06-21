@@ -62,51 +62,8 @@ date: 01/01/2025 00:00 +00:00
 friends:
 
 @UserData
-name: Mati_05
-tier: Participante
-days: 0
-date: 01/01/2025 00:00 +00:00
-friends:
-
-@UserData
-name: Deluke
-tier: Participante
-days: 0
-date: 01/01/2025 00:00 +00:00
-friends:
-
-@UserData
-name: ARBETH
-tier: Participante
-days: 0
-date: 01/01/2025 00:00 +00:00
-friends:
-
-@UserData
-name: Crimsonweiss
-tier: Participante
-days: 0
-date: 01/01/2025 00:00 +00:00
-friends:
-
-@UserData
-name: elpistols
-tier: Participante
-days: 0
-date: 01/01/2025 00:00 +00:00
-friends:
-
-
-@UserData
-name: oscuridad666
-tier: Participante
-days: 0
-date: 01/01/2025 00:00 +00:00
-friends:
-
-@UserData
-name: HiroHate_
-tier: Participante
+name: DJ ROMPE HUESO
+tier: Admin
 days: 0
 date: 01/01/2025 00:00 +00:00
 friends:
